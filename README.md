@@ -14,3 +14,8 @@
 2. Delete [firmware] and [mddb] folders in `system/etc/` and copy the same folders from your Stock ROM
 3. Rename the `Flare_5.xml` file inside `system/etc/device_features` folder to your device's model name and adjust the settings inside the file to match your phone's hardware/software.
 4. After doing the above steps, proceed with the porting method for your device (MT6735/53/37)
+
+
+# Special thanks to
+#### Irma Nastre
+#### Daniel Pajantoy
