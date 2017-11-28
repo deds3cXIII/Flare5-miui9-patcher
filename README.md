@@ -8,7 +8,7 @@
 #### 
 ############################################################################################
 
- After applying this patch to your ROM, please consider doing the following, specially if you're planning on applying this for a `MT6735` or `MT6737` device (confirmed working on MT6752)
+ After applying this patch to your ROM, please consider doing the following, specially if you're planning on applying this for a `MT6735` or `MT6737` device
 
 1. Delete all lib files with `.nikel.so` or `.mt6797.so`
 2. Delete [firmware] and [mddb] folders in `system/etc/` and copy the same folders from your Stock ROM
